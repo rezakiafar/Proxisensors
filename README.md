@@ -1,4 +1,4 @@
-# Gassensor-buzzer-lcd-arduinouno
+# MQ9gassensor-buzzer-lcd-arduinouno
 #include <LiquidCrystal.h>    
 
 LiquidCrystal lcd( 12, 11, 5, 4, 3, 2); //(rs,en,D4,D5,D6,D7);
