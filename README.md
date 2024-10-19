@@ -1,0 +1,3 @@
+# Proxisensors
+Projects in which proximity sensors are used.
+The Sensors involved are:  Ultrasonic, soil moisture sensor, IR sensor, Gas sensor, Color detector and etc...
